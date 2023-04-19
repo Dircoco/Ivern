@@ -1,0 +1,18 @@
+html {
+    background-color: #45B39D;
+}
+body {
+    width: 30%;
+    height: 30%;
+}
+h1 {
+    border: 2px solid #58D68D;
+    background-color: #239B56
+}
+div {
+    border-left: 2px solid #58D68D;
+    background-color: #239B56
+}
+.ca {
+    color: #F4D03F;
+}
